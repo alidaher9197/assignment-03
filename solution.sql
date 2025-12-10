@@ -86,3 +86,6 @@ WHERE city="Tripoli";
 
 DELETE FROM students_table
 WHERE student_id=10;
+
+DELETE FROM students_table
+WHERE age<17;
