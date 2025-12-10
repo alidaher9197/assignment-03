@@ -23,3 +23,4 @@ VALUES
 (9, "Fadi", "Hashem", 16, "A", "Tyre"),
 (10, "Layla", "Hassan", 17, "B", "Tripoli");
 SELECT * FROM students_table;
+SELECT first_name,city FROM students_table;
