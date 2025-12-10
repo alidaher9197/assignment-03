@@ -29,3 +29,4 @@ SELECT * FROM students_table WHERE city!="Beirut";
 SELECT * FROM students_table WHERE age>17;
 SELECT * FROM students_table WHERE age>=18;
 SELECT * FROM students_table WHERE student_id<5;
+SELECT * FROM students_table WHERE age<=16;
