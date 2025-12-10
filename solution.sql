@@ -34,3 +34,4 @@ SELECT * FROM students_table WHERE city IS NULL;
 SELECT * FROM students_table WHERE city IS NOT NULL;
 SELECT * FROM students_table WHERE age BETWEEN 17 AND 19;
 SELECT * FROM students_table WHERE age>17 AND grade="A";
+SELECT * FROM students_table WHERE city="Beirut" OR city="Tripoli";
