@@ -24,3 +24,5 @@ VALUES
 (10, "Layla", "Hassan", 17, "B", "Tripoli");
 SELECT * FROM students_table;
 SELECT first_name,city FROM students_table;
+SELECT * FROM students_table WHERE grade="B";
+SELECT * FROM students_table WHERE city!="Beirut";
