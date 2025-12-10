@@ -22,3 +22,4 @@ VALUES
 (8, "Hiba", "Zein", 20, "B", "Beirut"),
 (9, "Fadi", "Hashem", 16, "A", "Tyre"),
 (10, "Layla", "Hassan", 17, "B", "Tripoli");
+SELECT * FROM students_table;
