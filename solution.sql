@@ -83,3 +83,6 @@ WHERE student_id=4;
 UPDATE students_table
 SET city="Beirut"
 WHERE city="Tripoli";
+
+DELETE FROM students_table
+WHERE student_id=10;
